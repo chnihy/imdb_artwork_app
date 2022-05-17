@@ -2,6 +2,8 @@
 
 A (very) minimal IMDB API App that simply returns a full resolution poster for any show in IMDB's database.  
 
+<img src="/static/preview.png" alt="preview">
+
 Built using Flask
 
 # Requirements

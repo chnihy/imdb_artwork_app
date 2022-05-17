@@ -28,7 +28,6 @@ def get_show(title):
 @app.route('/')
 @app.route('/index')
 def index_get():
-
 	return render_template('index.html')
 
 
