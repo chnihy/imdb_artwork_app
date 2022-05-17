@@ -34,5 +34,5 @@ http://127.0.0.1:5000
 ```
 
 # Future Plans
-1. Incorporate more API features: trailer, cast, reviews etc...
-2. --Facelift with Bootstrap--
+- [] Incorporate more API features: trailer, cast, reviews etc...
+- [x] Facelift with Bootstrap--
