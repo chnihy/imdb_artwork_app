@@ -35,4 +35,4 @@ http://127.0.0.1:5000
 
 # Future Plans
 - [ ] Incorporate more API features: trailer, cast, reviews etc...
-- [x] Facelift with Bootstrap--
+- [ ] Facelift with Bootstrap--
